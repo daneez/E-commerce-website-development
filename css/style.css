@@ -1,0 +1,11 @@
+html {
+	overflow-y:scroll;
+}
+
+body {
+	margin-top: 70px;
+}
+
+main {
+	margin-bottom: 30px;
+}
